@@ -12,18 +12,3 @@ body{
 h1 {
     background-color: white;
 }
-
-header (outro arquivo):
-
-.cabeçalho_menu-hamburgue {
-    width: 24px;
-    height: 24px;
-    background-image: url(Imagens/Menu.svg);
-    display: inline-block;
-}
-
-.cabeçalho{
-    background-color: var(--branco);
-    display: flex;
-    justify-content: space-between;
-}
